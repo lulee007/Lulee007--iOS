@@ -9,13 +9,14 @@
 |[trip-to-iOS](https://github.com/Aufree/trip-to-iOS)|这份学习资料是为iOS初学者所准备的,旨在帮助iOS初学者们快速找到适合自己的学习资料,节省他们搜索资料的时间,使他们更好的规划好自己的 iOS学习路线,更快的入门,更准确的定位的目前所处的位置。|
 |[awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation)|收集整理了下iOS平台下比较主流炫酷的几款动画框架。|
 |[GitHub 排名前 100 iOS](https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md)|主要对当前 GitHub 排名前100的项目做一个简单的简介|
-|--单--|--个--|
+|[Github-iOS备忘](http://github.ibireme.com/github/list/ios/#)|Github-iOS备忘|
 
 ***
 ## 开源库
 |名称|说明|
 |---|---|
-|||
+|[YYKit](https://github.com/ibireme/YYKit)|YYKit 是一组庞大、功能丰富的 iOS 组件。|
+|[YYWebImage](https://github.com/ibireme/YYWebImage)|YYWebImage 是一个异步图片加载框架 (YYKit 组件之一).其设计目的是试图替代 SDWebImage、PINRemoteImage、FLAnimatedImage等开源框架，它支持这些开源框架的大部分功能，同时增加了大量新特性、并且有不小的性能提升。|
 
 ***
 ## 技术大牛
